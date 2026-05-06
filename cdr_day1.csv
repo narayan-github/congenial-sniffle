@@ -1,0 +1,4 @@
+call_id,user_id,call_duration,call_type,call_date,last_updated
+1,1001,120,local,2024-01-01,2024-01-01
+2,1002,300,std,2024-01-01,2024-01-01
+3,1001,60,local,2024-01-01,2024-01-01
